@@ -5,7 +5,7 @@ This is a Node.js-based blog application using Express.js, EJS templating engine
 
 ## Features
 - User authentication (login and registration).
-- Session handling with Express-Session
+- Session handling with Express-Session.
 - MongoDB database integration with Mongoose
 - Flash messaging using Express-Flash
 - File uploads using Multer
