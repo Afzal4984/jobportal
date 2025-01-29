@@ -10,7 +10,7 @@ This is a Node.js-based blog application using Express.js, EJS templating engine
 - Flash messaging using Express-Flash.
 - File uploads using Multer.
 - Templating with EJS and Express Layouts.
-- Method override for RESTful operations
+- Method override for RESTful operations.
 
 ## Technologies Used
 - Node.js.
