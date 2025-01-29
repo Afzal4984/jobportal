@@ -17,7 +17,7 @@ This is a Node.js-based blog application using Express.js, EJS templating engine
 - Express.js.
 - MongoDB & Mongoose.
 - Passport.js (for authentication).
-- EJS (templating engine)
+- EJS (templating engine).
 - Multer (for file uploads)
 - dotenv (for environment variables)
 - Express-session (session management)
