@@ -4,7 +4,7 @@
 This is a Node.js-based blog application using Express.js, EJS templating engine, and MongoDB for data storage. The application includes user authentication with Passport.js and session management.
 
 ## Features
-- User authentication (login and registration)
+- User authentication (login and registration).
 - Session handling with Express-Session
 - MongoDB database integration with Mongoose
 - Flash messaging using Express-Flash
