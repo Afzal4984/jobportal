@@ -14,7 +14,7 @@ This is a Node.js-based blog application using Express.js, EJS templating engine
 
 ## Technologies Used
 - Node.js.
-- Express.js
+- Express.js.
 - MongoDB & Mongoose
 - Passport.js (for authentication)
 - EJS (templating engine)
