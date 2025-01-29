@@ -19,7 +19,7 @@ This is a Node.js-based blog application using Express.js, EJS templating engine
 - Passport.js (for authentication).
 - EJS (templating engine).
 - Multer (for file uploads).
-- dotenv (for environment variables)
+- dotenv (for environment variables).
 - Express-session (session management)
 
 ## Installation
